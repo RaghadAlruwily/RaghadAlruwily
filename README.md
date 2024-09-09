@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RaghadAlruwaili
-- 👀 I’m interested in AI, ML and Robots
-- 🌱 I’m currently learning classic ML
+- 👀 I’m interested in AI, ML and DS
+- 🌱 I’m currently learning classic ML, DS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
